@@ -1,0 +1,64 @@
+{
+  "notes": [
+    {
+      "content": "the app state is in redux store",
+      "important": true,
+      "id": 1
+    },
+    {
+      "content": "state changes are made with actions",
+      "important": false,
+      "id": 2
+    },
+    {
+      "content": "aaa",
+      "important": false,
+      "id": 3
+    },
+    {
+      "content": "",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "Bubba Hubba Bubba",
+      "important": false,
+      "id": 5
+    },
+    {
+      "content": "Yaba Daba Doo",
+      "important": false,
+      "id": 6
+    },
+    {
+      "content": "asdfa",
+      "important": false,
+      "id": 7
+    },
+    {
+      "content": "aaa",
+      "important": false,
+      "id": 8
+    },
+    {
+      "content": "party",
+      "important": false,
+      "id": 9
+    },
+    {
+      "content": "Sam Snee",
+      "important": false,
+      "id": 10
+    },
+    {
+      "content": "heehee",
+      "important": false,
+      "id": 11
+    },
+    {
+      "content": "A new hope",
+      "important": false,
+      "id": 12
+    }
+  ]
+}

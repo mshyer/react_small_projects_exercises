@@ -1,0 +1,51 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "custom hooks are awesome"
+    },
+    {
+      "id": 2,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "A new hope",
+      "id": 3
+    },
+    {
+      "content": "Brie CHeese",
+      "id": 4
+    },
+    {
+      "content": "Hamboiga",
+      "id": 5
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "Matti Luukkainen",
+      "number": "040-12344565"
+    },
+    {
+      "id": 2,
+      "name": "Tarja Halonen",
+      "number": "040-2223334"
+    },
+    {
+      "name": "Person",
+      "number": "Numm",
+      "id": 3
+    },
+    {
+      "name": "Me me me",
+      "number": "123",
+      "id": 4
+    },
+    {
+      "name": "Mikmik",
+      "number": "The Greatesst",
+      "id": 5
+    }
+  ]
+}
